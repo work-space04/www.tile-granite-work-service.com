@@ -1,0 +1,73 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+
+
+    font-family: 'poppins', sans-serif;
+    background-color: darkmagenta;
+    text-align: center;
+}
+
+
+
+.tittlebar {
+    color: white;
+    text-align: center;
+    padding: 10px;
+   
+}
+
+.para {
+
+    color: white;
+    text-align: center;
+    padding: 10px;
+   
+}
+
+.para2 {
+
+    color: yellowgreen;
+    text-align: center;
+    padding: 10px;
+   
+}
+
+
+
+.locations {
+
+    color: yellowgreen;
+    text-align: center;
+    padding: 10px;
+    
+
+
+}
+
+.design1 {
+
+    color: red;
+}
+
+
+.wtsp{
+
+      display:inline-block;padding:12px 16px;border-radius:12px;
+    background:#22c55e;color:#052e16;text-decoration:none;
+    font:600 16px/1.1 system-ui,Segoe UI,Roboto,Arial,sans-serif
+
+}
+.gallery{
+
+object-fit: cover;
+border-radius: 0cqb;
+box-shadow: #22c55e;
+
+
+
+}
+
